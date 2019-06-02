@@ -67,7 +67,7 @@ var chart = new Chart(ctx, {
         {
           scaleLabel: {
             display: true,
-            labelString: "Pain Score"
+            labelString: "Pain Level"
           },
           ticks: {
             min: 0,
@@ -116,7 +116,7 @@ var chart = new Chart(ctx, {
         {
           scaleLabel: {
             display: true,
-            labelString: "Pain Score"
+            labelString: "Pain Level"
           },
           ticks: {
             min: 0,
@@ -177,7 +177,7 @@ var chart = new Chart(ctx, {
         {
           scaleLabel: {
             display: true,
-            labelString: "Pain Score"
+            labelString: "Pain Level"
           },
           ticks: {
             min: 0,

@@ -1,0 +1,20 @@
+.chart-container {
+    position: relative;
+    margin: auto;
+    height: 80vh;
+    width: 80vw;
+  }
+
+  .button {
+    color: royalblue;
+    border: 2px solid mistyrose;
+    background-color: mistyrose;
+    border-radius: 60%;
+    padding: 18px;
+  }
+
+  .button-container {
+      display: flex;
+      justify-content: space-around;
+      
+  }
